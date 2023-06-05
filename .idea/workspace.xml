@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83814bf2-0828-4d9b-97e1-91063b14de7d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven_work\m2\repository" />
+        <option name="mavenHome" value="E:/maven_work/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="E:\maven_work\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PYFDa93yWz6HqkSQZBTLpLbPUS" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mybatis-frame" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="JUnit.AuthRequestBuilderTest.baiduTest">
+    <configuration name="AuthRequestBuilderTest.baiduTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yaling-auth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.wen.oauth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.wen.oauth" />
+      <option name="MAIN_CLASS_NAME" value="cn.wen.oauth.AuthRequestBuilderTest" />
+      <option name="METHOD_NAME" value="baiduTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthRequestBuilderTest.giteeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yaling-auth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.wen.oauth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.wen.oauth" />
+      <option name="MAIN_CLASS_NAME" value="cn.wen.oauth.AuthRequestBuilderTest" />
+      <option name="METHOD_NAME" value="giteeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AuthRequestBuilderTest.baiduTest" />
+        <item itemvalue="JUnit.AuthRequestBuilderTest.giteeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83814bf2-0828-4d9b-97e1-91063b14de7d" name="Default Changelist" comment="" />
+      <created>1683625989208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683625989208</updated>
+      <workItem from="1683625993921" duration="10228000" />
+      <workItem from="1683649120730" duration="89000" />
+      <workItem from="1683681657219" duration="5001000" />
+      <workItem from="1683718577351" duration="5013000" />
+      <workItem from="1683723928768" duration="12000" />
+      <workItem from="1683784168506" duration="8475000" />
+      <workItem from="1683955164250" duration="7953000" />
+      <workItem from="1684034353952" duration="77000" />
+      <workItem from="1684139695561" duration="4313000" />
+      <workItem from="1684510120013" duration="676000" />
+      <workItem from="1684511779061" duration="8000" />
+      <workItem from="1684731259684" duration="1187000" />
+      <workItem from="1684739338966" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="593" y="147" key="#com.intellij.ide.util.MemberChooser" timestamp="1684142061147">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="2579" y="168" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1683961829555" />
+    <state x="593" y="147" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1684142061147" />
+    <state x="443" y="117" key="FileChooserDialogImpl" timestamp="1684151205684">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="443" y="117" key="FileChooserDialogImpl/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1684151205684" />
+    <state width="1508" height="240" key="GridCell.Tab.0.bottom" timestamp="1684734285180">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1665" height="240" key="GridCell.Tab.0.bottom/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1684732231460" />
+    <state width="1508" height="240" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1684734285180" />
+    <state width="1508" height="240" key="GridCell.Tab.0.center" timestamp="1684734285180">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1665" height="240" key="GridCell.Tab.0.center/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1684732231460" />
+    <state width="1508" height="240" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1684734285180" />
+    <state width="1508" height="240" key="GridCell.Tab.0.left" timestamp="1684734285180">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1665" height="240" key="GridCell.Tab.0.left/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1684732231460" />
+    <state width="1508" height="240" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1684734285180" />
+    <state width="1508" height="240" key="GridCell.Tab.0.right" timestamp="1684734285180">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1665" height="240" key="GridCell.Tab.0.right/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1684732231460" />
+    <state width="1508" height="240" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1684734285180" />
+    <state width="1665" height="297" key="GridCell.Tab.1.bottom" timestamp="1683688320358">
+      <screen x="1920" y="4" width="1707" height="912" />
+    </state>
+    <state width="1665" height="297" key="GridCell.Tab.1.bottom/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1683688320358" />
+    <state width="1665" height="297" key="GridCell.Tab.1.center" timestamp="1683688320358">
+      <screen x="1920" y="4" width="1707" height="912" />
+    </state>
+    <state width="1665" height="297" key="GridCell.Tab.1.center/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1683688320358" />
+    <state width="1665" height="297" key="GridCell.Tab.1.left" timestamp="1683688320358">
+      <screen x="1920" y="4" width="1707" height="912" />
+    </state>
+    <state width="1665" height="297" key="GridCell.Tab.1.left/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1683688320358" />
+    <state width="1665" height="297" key="GridCell.Tab.1.right" timestamp="1683688320358">
+      <screen x="1920" y="4" width="1707" height="912" />
+    </state>
+    <state width="1665" height="297" key="GridCell.Tab.1.right/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1683688320358" />
+    <state x="2436" y="197" width="672" height="678" key="search.everywhere.popup" timestamp="1684731723867">
+      <screen x="1920" y="4" width="1707" height="912" />
+    </state>
+    <state x="2436" y="197" width="672" height="678" key="search.everywhere.popup/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1684731723867" />
+  </component>
+</project>
