@@ -10,5 +10,8 @@
         <module name="yaling-auth" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="nexus-staging-maven-plugin" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

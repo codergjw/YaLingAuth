@@ -1,7 +1,220 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="83814bf2-0828-4d9b-97e1-91063b14de7d" name="Default Changelist" comment="" />
+    <list default="true" id="83814bf2-0828-4d9b-97e1-91063b14de7d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/AuthRequestBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/AuthRequestBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/cache/AuthCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/cache/AuthCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/cache/AuthCacheConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/cache/AuthCacheConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/cache/AuthCacheScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/cache/AuthCacheScheduler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/cache/AuthDefaultCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/cache/AuthDefaultCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/cache/AuthDefaultStateCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/cache/AuthDefaultStateCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/cache/AuthStateCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/cache/AuthStateCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/config/AuthConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/config/AuthConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/config/AuthDefaultSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/config/AuthDefaultSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/config/AuthSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/config/AuthSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/config/YaLingAuthLogConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/config/YaLingAuthLogConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/entity/AuthCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/entity/AuthCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/entity/AuthResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/entity/AuthResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/entity/AuthToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/entity/AuthToken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/entity/AuthUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/entity/AuthUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/AuthResponseStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/AuthResponseStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/AuthUserGender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/AuthUserGender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthBaiduScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthBaiduScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthCodingScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthCodingScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthDouyinScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthDouyinScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthFacebookScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthFacebookScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthGiteeScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthGiteeScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthGithubScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthGithubScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthGoogleScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthGoogleScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthHuaweiScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthHuaweiScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthJdScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthJdScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthMiScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthMiScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthProginnScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthProginnScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthQqScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthQqScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthRenrenScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthRenrenScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthTaobaoRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthTaobaoRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthToutiaoErrorCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthToutiaoErrorCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthWechatMpScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthWechatMpScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthWeiboScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthWeiboScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/exception/AuthException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/exception/AuthException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/log/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/log/Log.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AbstractAuthDingtalkRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AbstractAuthDingtalkRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthAlipayRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthAlipayRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthAliyunRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthAliyunRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthBaiduRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthBaiduRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthCodingRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthCodingRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthCsdnRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthCsdnRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthDefaultRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthDefaultRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthDingTalkAccountRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthDingTalkAccountRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthDingTalkRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthDingTalkRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthDouyinRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthDouyinRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthElementRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthElementRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthFacebookRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthFacebookRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthGiteeRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthGiteeRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthGithubRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthGithubRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthGoogleRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthGoogleRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthHuaweiRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthHuaweiRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthJdRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthJdRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthMeituanRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthMeituanRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthMiRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthMiRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthProginnRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthProginnRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthQqRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthQqRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthRenrenRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthRenrenRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthTaobaoRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthTaobaoRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthToutiaoRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthToutiaoRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthWeChatMpRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthWeChatMpRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthWeChatOpenRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthWeChatOpenRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthWeiboRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthWeiboRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthXmlyRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthXmlyRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/utils/AuthChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/utils/AuthChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/utils/AuthScopeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/utils/AuthScopeUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/utils/AuthStateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/utils/AuthStateUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/utils/Base64Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/utils/Base64Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/utils/GlobalAuthUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/utils/GlobalAuthUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/utils/HttpUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/utils/HttpUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/utils/IpUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/utils/IpUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/utils/RandomUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/utils/RandomUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/utils/Sha256.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/utils/Sha256.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/utils/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/utils/StringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/utils/UUIDUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/utils/UUIDUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/utils/UrlBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/utils/UrlBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cn/wen/oauth/AuthRequestBuilderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/github/codergjw/AuthRequestBuilderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/AuthRequestBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/cache/AuthCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/cache/AuthCacheConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/cache/AuthCacheScheduler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/cache/AuthDefaultCache$CacheState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/cache/AuthDefaultCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/cache/AuthDefaultStateCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/cache/AuthStateCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthConfig$AuthConfigBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/YaLingAuthLogConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/entity/AuthCallback$AuthCallbackBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/entity/AuthCallback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/entity/AuthResponse$AuthResponseBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/entity/AuthResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/entity/AuthToken$AuthTokenBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/entity/AuthToken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/entity/AuthUser$AuthUserBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/entity/AuthUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/AuthResponseStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/AuthUserGender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthBaiduScope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthCodingScope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthDouyinScope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthFacebookScope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthGiteeScope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthGithubScope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthGoogleScope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthHuaweiScope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthJdScope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthMiScope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthProginnScope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthQqScope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthRenrenScope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthScope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthTaobaoRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthToutiaoErrorCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthWechatMpScope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthWeiboScope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/exception/AuthException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/log/Log$Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/log/Log$Level.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/log/Log.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AbstractAuthDingtalkRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthAlipayRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthAliyunRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthBaiduRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthCodingRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthCsdnRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthDefaultRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthDingTalkAccountRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthDingTalkRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthDouyinRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthElementRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthFacebookRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthGiteeRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthGithubRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthGoogleRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthHuaweiRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthJdRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthMeituanRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthMiRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthProginnRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthQqRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthRenrenRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthTaobaoRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthToutiaoRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthWeChatMpRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthWeChatOpenRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthWeiboRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthXmlyRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/utils/AuthChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/utils/AuthScopeUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/utils/AuthStateUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/utils/Base64Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/utils/GlobalAuthUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/utils/HttpUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/utils/IpUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/utils/RandomUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/utils/Sha256.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/utils/StringUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/utils/UUIDUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/utils/UrlBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cn/wen/oauth/AuthRequestBuilderTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +229,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -26,6 +242,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2PYFDa93yWz6HqkSQZBTLpLbPUS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
@@ -35,13 +252,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mybatis-frame" />
+    <property name="last_opened_file_path" value="E:/maven_work/m2/repository/org/sonatype/plugins/nexus-staging-maven-plugin/1.6.10/nexus-staging-maven-plugin-1.6.10.pom" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunManager" selected="JUnit.AuthRequestBuilderTest.baiduTest">
@@ -49,12 +269,12 @@
       <module name="yaling-auth" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.wen.oauth.*" />
+          <option name="PATTERN" value="io.github.codergjw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.wen.oauth" />
-      <option name="MAIN_CLASS_NAME" value="cn.wen.oauth.AuthRequestBuilderTest" />
+      <option name="PACKAGE_NAME" value="io.github.codergjw" />
+      <option name="MAIN_CLASS_NAME" value="io.github.codergjw.AuthRequestBuilderTest" />
       <option name="METHOD_NAME" value="baiduTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -65,17 +285,74 @@
       <module name="yaling-auth" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.wen.oauth.*" />
+          <option name="PATTERN" value="io.github.codergjw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.wen.oauth" />
-      <option name="MAIN_CLASS_NAME" value="cn.wen.oauth.AuthRequestBuilderTest" />
+      <option name="PACKAGE_NAME" value="io.github.codergjw" />
+      <option name="MAIN_CLASS_NAME" value="io.github.codergjw.AuthRequestBuilderTest" />
       <option name="METHOD_NAME" value="giteeTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="nexus-staging-maven-plugin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="nexus-staging-maven-plugin" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="lua.app" factoryName="Lua Application">
+      <option name="program" value="lua.exe" />
+      <option name="file" value="" />
+      <option name="workingDir" value="E:/maven_work/m2/repository/org/sonatype/plugins/nexus-staging-maven-plugin/1.6.10/target/generated-sources/plugin" />
+      <option name="debuggerType" value="1" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
@@ -107,11 +384,26 @@
       <workItem from="1684511779061" duration="8000" />
       <workItem from="1684731259684" duration="1187000" />
       <workItem from="1684739338966" duration="6000" />
+      <workItem from="1685953234666" duration="4807000" />
+      <workItem from="1685958985367" duration="2584000" />
+      <workItem from="1685961589913" duration="2785000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="593" y="147" key="#com.intellij.ide.util.MemberChooser" timestamp="1684142061147">
@@ -119,29 +411,30 @@
     </state>
     <state x="2579" y="168" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1683961829555" />
     <state x="593" y="147" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1684142061147" />
-    <state x="443" y="117" key="FileChooserDialogImpl" timestamp="1684151205684">
+    <state x="443" y="117" width="438" height="471" key="FileChooserDialogImpl" timestamp="1685961810618">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="443" y="117" key="FileChooserDialogImpl/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1684151205684" />
-    <state width="1508" height="240" key="GridCell.Tab.0.bottom" timestamp="1684734285180">
-      <screen x="0" y="0" width="1536" height="816" />
+    <state x="443" y="117" key="FileChooserDialogImpl/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1685961810618" />
+    <state x="822" y="300" width="438" height="471" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1685957184029" />
+    <state width="1665" height="270" key="GridCell.Tab.0.bottom" timestamp="1685968449417">
+      <screen x="1920" y="4" width="1707" height="912" />
     </state>
-    <state width="1665" height="240" key="GridCell.Tab.0.bottom/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1684732231460" />
+    <state width="1665" height="270" key="GridCell.Tab.0.bottom/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1685968449417" />
     <state width="1508" height="240" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1684734285180" />
-    <state width="1508" height="240" key="GridCell.Tab.0.center" timestamp="1684734285180">
-      <screen x="0" y="0" width="1536" height="816" />
+    <state width="1665" height="270" key="GridCell.Tab.0.center" timestamp="1685968449417">
+      <screen x="1920" y="4" width="1707" height="912" />
     </state>
-    <state width="1665" height="240" key="GridCell.Tab.0.center/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1684732231460" />
+    <state width="1665" height="270" key="GridCell.Tab.0.center/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1685968449417" />
     <state width="1508" height="240" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1684734285180" />
-    <state width="1508" height="240" key="GridCell.Tab.0.left" timestamp="1684734285180">
-      <screen x="0" y="0" width="1536" height="816" />
+    <state width="1665" height="270" key="GridCell.Tab.0.left" timestamp="1685968449417">
+      <screen x="1920" y="4" width="1707" height="912" />
     </state>
-    <state width="1665" height="240" key="GridCell.Tab.0.left/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1684732231460" />
+    <state width="1665" height="270" key="GridCell.Tab.0.left/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1685968449417" />
     <state width="1508" height="240" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1684734285180" />
-    <state width="1508" height="240" key="GridCell.Tab.0.right" timestamp="1684734285180">
-      <screen x="0" y="0" width="1536" height="816" />
+    <state width="1665" height="270" key="GridCell.Tab.0.right" timestamp="1685968449417">
+      <screen x="1920" y="4" width="1707" height="912" />
     </state>
-    <state width="1665" height="240" key="GridCell.Tab.0.right/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1684732231460" />
+    <state width="1665" height="270" key="GridCell.Tab.0.right/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1685968449417" />
     <state width="1508" height="240" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1684734285180" />
     <state width="1665" height="297" key="GridCell.Tab.1.bottom" timestamp="1683688320358">
       <screen x="1920" y="4" width="1707" height="912" />
@@ -159,6 +452,11 @@
       <screen x="1920" y="4" width="1707" height="912" />
     </state>
     <state width="1665" height="297" key="GridCell.Tab.1.right/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1683688320358" />
+    <state x="2261" y="65" width="921" height="707" key="SettingsEditor" timestamp="1685967989939">
+      <screen x="1920" y="4" width="1707" height="912" />
+    </state>
+    <state x="2261" y="65" key="SettingsEditor/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1685967989939" />
+    <state x="307" y="72" width="921" height="707" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1685954944771" />
     <state x="2436" y="197" width="672" height="678" key="search.everywhere.popup" timestamp="1684731723867">
       <screen x="1920" y="4" width="1707" height="912" />
     </state>
