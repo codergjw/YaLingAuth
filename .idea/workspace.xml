@@ -21,199 +21,242 @@
   <component name="ChangeListManager">
     <list default="true" id="83814bf2-0828-4d9b-97e1-91063b14de7d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/AuthRequestBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/AuthRequestBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/cache/AuthCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/cache/AuthCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/cache/AuthCacheConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/cache/AuthCacheConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/cache/AuthCacheScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/cache/AuthCacheScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/cache/AuthDefaultCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/cache/AuthDefaultCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/cache/AuthDefaultStateCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/cache/AuthDefaultStateCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/cache/AuthStateCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/cache/AuthStateCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/config/AuthConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/config/AuthConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/config/AuthDefaultSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/config/AuthDefaultSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/config/AuthSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/config/AuthSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/config/YaLingAuthLogConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/config/YaLingAuthLogConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/entity/AuthCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/entity/AuthCallback.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/entity/AuthResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/entity/AuthResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/entity/AuthToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/entity/AuthToken.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/entity/AuthUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/entity/AuthUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/AuthResponseStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/AuthResponseStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/AuthUserGender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/AuthUserGender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthBaiduScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthBaiduScope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthCodingScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthCodingScope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthDouyinScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthDouyinScope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthFacebookScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthFacebookScope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthGiteeScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthGiteeScope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthGithubScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthGithubScope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthGoogleScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthGoogleScope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthHuaweiScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthHuaweiScope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthJdScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthJdScope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthMiScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthMiScope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthProginnScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthProginnScope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthQqScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthQqScope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthRenrenScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthRenrenScope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthScope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthTaobaoRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthTaobaoRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthToutiaoErrorCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthToutiaoErrorCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthWechatMpScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthWechatMpScope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/enums/scope/AuthWeiboScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/enums/scope/AuthWeiboScope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/exception/AuthException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/exception/AuthException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/log/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/log/Log.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AbstractAuthDingtalkRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AbstractAuthDingtalkRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthAlipayRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthAlipayRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthAliyunRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthAliyunRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthBaiduRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthBaiduRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthCodingRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthCodingRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthCsdnRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthCsdnRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthDefaultRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthDefaultRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthDingTalkAccountRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthDingTalkAccountRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthDingTalkRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthDingTalkRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthDouyinRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthDouyinRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthElementRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthElementRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthFacebookRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthFacebookRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthGiteeRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthGiteeRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthGithubRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthGithubRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthGoogleRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthGoogleRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthHuaweiRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthHuaweiRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthJdRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthJdRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthMeituanRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthMeituanRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthMiRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthMiRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthProginnRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthProginnRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthQqRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthQqRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthRenrenRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthRenrenRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthTaobaoRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthTaobaoRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthToutiaoRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthToutiaoRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthWeChatMpRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthWeChatMpRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthWeChatOpenRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthWeChatOpenRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthWeiboRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthWeiboRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/AuthXmlyRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/AuthXmlyRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/request/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/request/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/utils/AuthChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/utils/AuthChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/utils/AuthScopeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/utils/AuthScopeUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/utils/AuthStateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/utils/AuthStateUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/utils/Base64Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/utils/Base64Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/utils/GlobalAuthUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/utils/GlobalAuthUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/utils/HttpUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/utils/HttpUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/utils/IpUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/utils/IpUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/utils/RandomUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/utils/RandomUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/utils/Sha256.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/utils/Sha256.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/utils/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/utils/StringUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/utils/UUIDUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/utils/UUIDUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wen/oauth/utils/UrlBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/codergjw/utils/UrlBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cn/wen/oauth/AuthRequestBuilderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/github/codergjw/AuthRequestBuilderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/AuthRequestBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/cache/AuthCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/cache/AuthCacheConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/cache/AuthCacheScheduler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/cache/AuthDefaultCache$CacheState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/cache/AuthDefaultCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/cache/AuthDefaultStateCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/cache/AuthStateCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthConfig$AuthConfigBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$19.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$20.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$21.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$22.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$23.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$24.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$25.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$26.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource$9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthDefaultSource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/AuthSource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/config/YaLingAuthLogConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/entity/AuthCallback$AuthCallbackBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/entity/AuthCallback.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/entity/AuthResponse$AuthResponseBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/entity/AuthResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/entity/AuthToken$AuthTokenBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/entity/AuthToken.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/entity/AuthUser$AuthUserBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/entity/AuthUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/AuthResponseStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/AuthUserGender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthBaiduScope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthCodingScope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthDouyinScope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthFacebookScope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthGiteeScope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthGithubScope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthGoogleScope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthHuaweiScope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthJdScope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthMiScope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthProginnScope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthQqScope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthRenrenScope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthScope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthTaobaoRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthToutiaoErrorCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthWechatMpScope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/enums/scope/AuthWeiboScope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/exception/AuthException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/log/Log$Config.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/log/Log$Level.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/log/Log.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AbstractAuthDingtalkRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthAlipayRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthAliyunRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthBaiduRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthCodingRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthCsdnRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthDefaultRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthDingTalkAccountRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthDingTalkRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthDouyinRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthElementRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthFacebookRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthGiteeRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthGithubRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthGoogleRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthHuaweiRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthJdRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthMeituanRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthMiRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthProginnRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthQqRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthRenrenRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthTaobaoRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthToutiaoRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthWeChatMpRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthWeChatOpenRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthWeiboRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/request/AuthXmlyRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/utils/AuthChecker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/utils/AuthScopeUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/utils/AuthStateUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/utils/Base64Utils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/utils/GlobalAuthUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/utils/HttpUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/utils/IpUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/utils/RandomUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/utils/Sha256.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/utils/StringUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/utils/UUIDUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/wen/oauth/utils/UrlBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/cn/wen/oauth/AuthRequestBuilderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/index-all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/AuthRequestBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/AuthRequestBuilder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/AuthCache.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/AuthCache.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/AuthCacheConfig.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/AuthCacheConfig.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/AuthCacheScheduler.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/AuthCacheScheduler.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/AuthDefaultCache.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/AuthDefaultCache.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/AuthDefaultStateCache.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/AuthDefaultStateCache.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/AuthStateCache.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/AuthStateCache.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/class-use/AuthCache.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/class-use/AuthCache.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/class-use/AuthCacheConfig.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/class-use/AuthCacheConfig.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/class-use/AuthCacheScheduler.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/class-use/AuthCacheScheduler.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/class-use/AuthDefaultCache.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/class-use/AuthDefaultCache.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/class-use/AuthDefaultStateCache.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/class-use/AuthDefaultStateCache.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/class-use/AuthStateCache.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/class-use/AuthStateCache.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/cache/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/class-use/AuthRequestBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/class-use/AuthRequestBuilder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/config/AuthConfig.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/config/AuthConfig.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/config/AuthDefaultSource.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/config/AuthDefaultSource.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/config/AuthSource.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/config/AuthSource.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/config/YaLingAuthLogConfig.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/config/YaLingAuthLogConfig.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/config/class-use/AuthConfig.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/config/class-use/AuthConfig.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/config/class-use/AuthDefaultSource.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/config/class-use/AuthDefaultSource.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/config/class-use/AuthSource.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/config/class-use/AuthSource.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/config/class-use/YaLingAuthLogConfig.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/config/class-use/YaLingAuthLogConfig.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/config/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/config/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/config/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/config/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/config/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/config/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/config/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/config/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/entity/AuthCallback.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/entity/AuthCallback.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/entity/AuthResponse.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/entity/AuthResponse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/entity/AuthToken.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/entity/AuthToken.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/entity/AuthUser.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/entity/AuthUser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/entity/class-use/AuthCallback.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/entity/class-use/AuthCallback.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/entity/class-use/AuthResponse.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/entity/class-use/AuthResponse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/entity/class-use/AuthToken.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/entity/class-use/AuthToken.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/entity/class-use/AuthUser.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/entity/class-use/AuthUser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/entity/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/entity/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/entity/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/entity/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/entity/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/entity/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/entity/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/entity/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/AuthResponseStatus.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/AuthResponseStatus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/AuthUserGender.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/AuthUserGender.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/class-use/AuthResponseStatus.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/class-use/AuthResponseStatus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/class-use/AuthUserGender.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/class-use/AuthUserGender.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthBaiduScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthBaiduScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthCodingScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthCodingScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthDouyinScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthDouyinScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthFacebookScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthFacebookScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthGiteeScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthGiteeScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthGithubScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthGithubScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthGoogleScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthGoogleScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthHuaweiScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthHuaweiScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthJdScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthJdScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthMiScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthMiScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthProginnScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthProginnScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthQqScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthQqScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthRenrenScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthRenrenScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthTaobaoRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthTaobaoRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthToutiaoErrorCode.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthToutiaoErrorCode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthWechatMpScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthWechatMpScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthWeiboScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/AuthWeiboScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthBaiduScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthBaiduScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthCodingScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthCodingScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthDouyinScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthDouyinScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthFacebookScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthFacebookScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthGiteeScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthGiteeScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthGithubScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthGithubScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthGoogleScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthGoogleScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthHuaweiScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthHuaweiScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthJdScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthJdScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthMiScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthMiScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthProginnScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthProginnScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthQqScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthQqScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthRenrenScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthRenrenScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthTaobaoRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthTaobaoRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthToutiaoErrorCode.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthToutiaoErrorCode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthWechatMpScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthWechatMpScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthWeiboScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/class-use/AuthWeiboScope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/enums/scope/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/exception/AuthException.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/exception/AuthException.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/exception/class-use/AuthException.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/exception/class-use/AuthException.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/exception/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/exception/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/exception/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/exception/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/exception/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/exception/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/exception/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/exception/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/log/Log.Config.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/log/Log.Config.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/log/Log.Level.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/log/Log.Level.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/log/Log.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/log/Log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/log/class-use/Log.Config.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/log/class-use/Log.Config.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/log/class-use/Log.Level.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/log/class-use/Log.Level.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/log/class-use/Log.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/log/class-use/Log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/log/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/log/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/log/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/log/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/log/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/log/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/log/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/log/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AbstractAuthDingtalkRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AbstractAuthDingtalkRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthAlipayRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthAlipayRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthAliyunRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthAliyunRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthBaiduRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthBaiduRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthCodingRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthCodingRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthCsdnRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthCsdnRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthDefaultRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthDefaultRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthDingTalkAccountRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthDingTalkAccountRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthDingTalkRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthDingTalkRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthDouyinRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthDouyinRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthElementRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthElementRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthFacebookRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthFacebookRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthGiteeRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthGiteeRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthGithubRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthGithubRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthGoogleRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthGoogleRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthHuaweiRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthHuaweiRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthJdRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthJdRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthMeituanRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthMeituanRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthMiRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthMiRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthProginnRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthProginnRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthQqRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthQqRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthRenrenRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthRenrenRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthTaobaoRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthTaobaoRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthToutiaoRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthToutiaoRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthWeChatMpRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthWeChatMpRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthWeChatOpenRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthWeChatOpenRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthWeiboRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthWeiboRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthXmlyRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/AuthXmlyRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AbstractAuthDingtalkRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AbstractAuthDingtalkRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthAlipayRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthAlipayRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthAliyunRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthAliyunRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthBaiduRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthBaiduRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthCodingRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthCodingRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthCsdnRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthCsdnRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthDefaultRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthDefaultRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthDingTalkAccountRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthDingTalkAccountRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthDingTalkRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthDingTalkRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthDouyinRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthDouyinRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthElementRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthElementRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthFacebookRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthFacebookRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthGiteeRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthGiteeRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthGithubRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthGithubRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthGoogleRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthGoogleRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthHuaweiRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthHuaweiRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthJdRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthJdRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthMeituanRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthMeituanRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthMiRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthMiRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthProginnRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthProginnRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthQqRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthQqRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthRenrenRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthRenrenRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthTaobaoRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthTaobaoRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthToutiaoRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthToutiaoRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthWeChatMpRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthWeChatMpRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthWeChatOpenRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthWeChatOpenRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthWeiboRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthWeiboRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthXmlyRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/class-use/AuthXmlyRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/request/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/AuthChecker.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/AuthChecker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/AuthScopeUtils.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/AuthScopeUtils.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/AuthStateUtils.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/AuthStateUtils.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/Base64Utils.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/Base64Utils.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/GlobalAuthUtils.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/GlobalAuthUtils.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/HttpUtils.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/HttpUtils.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/IpUtils.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/IpUtils.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/RandomUtil.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/RandomUtil.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/Sha256.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/Sha256.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/StringUtils.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/StringUtils.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/UUIDUtils.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/UUIDUtils.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/UrlBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/UrlBuilder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/class-use/AuthChecker.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/class-use/AuthChecker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/class-use/AuthScopeUtils.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/class-use/AuthScopeUtils.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/class-use/AuthStateUtils.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/class-use/AuthStateUtils.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/class-use/Base64Utils.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/class-use/Base64Utils.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/class-use/GlobalAuthUtils.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/class-use/GlobalAuthUtils.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/class-use/HttpUtils.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/class-use/HttpUtils.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/class-use/IpUtils.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/class-use/IpUtils.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/class-use/RandomUtil.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/class-use/RandomUtil.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/class-use/Sha256.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/class-use/Sha256.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/class-use/StringUtils.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/class-use/StringUtils.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/class-use/UUIDUtils.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/class-use/UUIDUtils.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/class-use/UrlBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/class-use/UrlBuilder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/codergjw/utils/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/overview-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/overview-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/serialized-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/deferred/.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/deferred/io/github/codergjw/yaling-auth/1.0.0-SNAPSHOT/maven-metadata-nexus.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/deferred/io/github/codergjw/yaling-auth/1.0.0-SNAPSHOT/yaling-auth-1.0.0-SNAPSHOT-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/deferred/io/github/codergjw/yaling-auth/1.0.0-SNAPSHOT/yaling-auth-1.0.0-SNAPSHOT-javadoc.jar.asc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/deferred/io/github/codergjw/yaling-auth/1.0.0-SNAPSHOT/yaling-auth-1.0.0-SNAPSHOT-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/deferred/io/github/codergjw/yaling-auth/1.0.0-SNAPSHOT/yaling-auth-1.0.0-SNAPSHOT-sources.jar.asc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/deferred/io/github/codergjw/yaling-auth/1.0.0-SNAPSHOT/yaling-auth-1.0.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/deferred/io/github/codergjw/yaling-auth/1.0.0-SNAPSHOT/yaling-auth-1.0.0-SNAPSHOT.jar.asc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/deferred/io/github/codergjw/yaling-auth/1.0.0-SNAPSHOT/yaling-auth-1.0.0-SNAPSHOT.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/deferred/io/github/codergjw/yaling-auth/1.0.0-SNAPSHOT/yaling-auth-1.0.0-SNAPSHOT.pom.asc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/deferred/io/github/codergjw/yaling-auth/maven-metadata-nexus.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-io.github.codergjw.AuthRequestBuilderTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-io.github.codergjw.AuthRequestBuilderTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/io.github.codergjw.AuthRequestBuilderTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/io.github.codergjw.AuthRequestBuilderTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/yaling-auth-1.0.0-SNAPSHOT-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/yaling-auth-1.0.0-SNAPSHOT-javadoc.jar.asc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/yaling-auth-1.0.0-SNAPSHOT-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/yaling-auth-1.0.0-SNAPSHOT-sources.jar.asc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/yaling-auth-1.0.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/yaling-auth-1.0.0-SNAPSHOT.jar.asc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/yaling-auth-1.0.0-SNAPSHOT.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/yaling-auth-1.0.0-SNAPSHOT.pom.asc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/yaling-auth-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/yaling-auth-1.0.0.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -386,7 +429,10 @@
       <workItem from="1684739338966" duration="6000" />
       <workItem from="1685953234666" duration="4807000" />
       <workItem from="1685958985367" duration="2584000" />
-      <workItem from="1685961589913" duration="2785000" />
+      <workItem from="1685961589913" duration="3995000" />
+      <workItem from="1685980806697" duration="315000" />
+      <workItem from="1686010542423" duration="4358000" />
+      <workItem from="1686021760684" duration="120000" />
     </task>
     <servers />
   </component>
@@ -416,25 +462,25 @@
     </state>
     <state x="443" y="117" key="FileChooserDialogImpl/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1685961810618" />
     <state x="822" y="300" width="438" height="471" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1685957184029" />
-    <state width="1665" height="270" key="GridCell.Tab.0.bottom" timestamp="1685968449417">
+    <state width="1665" height="270" key="GridCell.Tab.0.bottom" timestamp="1685972278909">
       <screen x="1920" y="4" width="1707" height="912" />
     </state>
-    <state width="1665" height="270" key="GridCell.Tab.0.bottom/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1685968449417" />
+    <state width="1665" height="270" key="GridCell.Tab.0.bottom/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1685972278909" />
     <state width="1508" height="240" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1684734285180" />
-    <state width="1665" height="270" key="GridCell.Tab.0.center" timestamp="1685968449417">
+    <state width="1665" height="270" key="GridCell.Tab.0.center" timestamp="1685972278909">
       <screen x="1920" y="4" width="1707" height="912" />
     </state>
-    <state width="1665" height="270" key="GridCell.Tab.0.center/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1685968449417" />
+    <state width="1665" height="270" key="GridCell.Tab.0.center/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1685972278909" />
     <state width="1508" height="240" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1684734285180" />
-    <state width="1665" height="270" key="GridCell.Tab.0.left" timestamp="1685968449417">
+    <state width="1665" height="270" key="GridCell.Tab.0.left" timestamp="1685972278909">
       <screen x="1920" y="4" width="1707" height="912" />
     </state>
-    <state width="1665" height="270" key="GridCell.Tab.0.left/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1685968449417" />
+    <state width="1665" height="270" key="GridCell.Tab.0.left/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1685972278909" />
     <state width="1508" height="240" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1684734285180" />
-    <state width="1665" height="270" key="GridCell.Tab.0.right" timestamp="1685968449417">
+    <state width="1665" height="270" key="GridCell.Tab.0.right" timestamp="1685972278909">
       <screen x="1920" y="4" width="1707" height="912" />
     </state>
-    <state width="1665" height="270" key="GridCell.Tab.0.right/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1685968449417" />
+    <state width="1665" height="270" key="GridCell.Tab.0.right/0.0.1536.816/1920.4.1707.912@1920.4.1707.912" timestamp="1685972278909" />
     <state width="1508" height="240" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1684734285180" />
     <state width="1665" height="297" key="GridCell.Tab.1.bottom" timestamp="1683688320358">
       <screen x="1920" y="4" width="1707" height="912" />
